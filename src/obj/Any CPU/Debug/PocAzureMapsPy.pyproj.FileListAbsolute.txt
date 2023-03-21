@@ -1,0 +1,2 @@
+C:\Users\ACT\Documents\repos\PocAzureMapsPy\obj\Any CPU\Debug\PocAzureMapsPy.pyproj.SuggestedBindingRedirects.cache
+C:\Users\ACT\Documents\repos\PocAzureMapsPy\obj\Any CPU\Debug\PocAzureMapsPy.pyproj.CoreCompileInputs.cache
